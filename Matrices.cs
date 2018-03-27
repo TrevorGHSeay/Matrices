@@ -4,7 +4,7 @@ namespace Matrices
 {
 
     /// <summary>
-    /// The primary class used in the calculation and manipulation of NeuralLayers and their Weights / Biases.
+    /// The primary class.
     /// </summary>
     public sealed class Matrix
     {
