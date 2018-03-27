@@ -4,7 +4,7 @@ namespace Matrices
 {
 
     /// <summary>
-    /// The primary class.
+    /// The primary class for matrix manipulations and transformations.
     /// </summary>
     public sealed class Matrix
     {
